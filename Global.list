@@ -30980,6 +30980,7 @@ DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,paidwork.com
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -31017,6 +31018,7 @@ DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,paidwork
+DOMAIN-KEYWORD,metamask
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve
