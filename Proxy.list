@@ -75,8 +75,12 @@ DOMAIN-SUFFIX,null-addr.biz
 DOMAIN-SUFFIX,null-addr.info
 DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,paidwork.com
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,resources.honeygain.com
 DOMAIN-SUFFIX,download.honeygain.com
+DOMAIN-KEYWORD,paidwork
+DOMAIN-KEYWORD,metamask
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
