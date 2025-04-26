@@ -3,6 +3,8 @@
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,ntdtv
+DOMAIN-KEYWORD,siscloudservices
 # 域名后缀匹配
 # 其他网站
 DOMAIN,resources.honeygain.com
@@ -65,3 +67,4 @@ DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,paidwork.com
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,siscloudservices.com
+DOMAIN-SUFFIX,ntdtv.com
