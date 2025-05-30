@@ -6,6 +6,7 @@
 DOMAIN-KEYWORD,ntdtv
 DOMAIN-KEYWORD,siscloudservices
 DOMAIN-KEYWORD,appsflyersdk
+DOMAIN-KEYWORD,trae
 # 域名后缀匹配
 # 其他网站
 DOMAIN,resources.honeygain.com
@@ -70,3 +71,4 @@ DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,siscloudservices.com
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-KEYWORD,trae.ai
